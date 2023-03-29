@@ -1,1 +1,1 @@
-# HostrlManagementApp
+# HostelManagementApp
